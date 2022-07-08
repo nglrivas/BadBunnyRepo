@@ -58,14 +58,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "UEAnimaLoader",
-			"Enabled": true
-		},
-		{
-			"Name": "Anima4DUnrealPlugin",
-			"Enabled": true
 		}
 	]
 }
