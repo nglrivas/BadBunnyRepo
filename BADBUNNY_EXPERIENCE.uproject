@@ -45,14 +45,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Anima4DUnrealPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "UEAnimaLoader",
-			"Enabled": true
-		},
-		{
 			"Name": "HPMotionController",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
